@@ -17,9 +17,3 @@ end
 ```
 
 Documentation [https://hexdocs.pm/quickpay_elixir_client](https://hexdocs.pm/quickpay_elixir_client).
-
-
-
-###
-helpful links used under development
-http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/

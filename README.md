@@ -16,7 +16,7 @@ def deps do
 end
 ```
 
-<> Documentation [https://hexdocs.pm/quickpay_elixir_client](https://hexdocs.pm/quickpay_elixir_client).
+Documentation [https://hexdocs.pm/quickpay_elixir_client](https://hexdocs.pm/quickpay_elixir_client).
 
 
 

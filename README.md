@@ -5,7 +5,7 @@ The `quickpay-elixir-client` hex package is a official client for [QuickPay API]
 
 ## Installation
 
-If [available in Hex](https://hex.pm/packages/quickpay_elixir_client), the package can be installed
+The package can be installed
 by adding `quickpay_elixir_client` to your list of dependencies in `mix.exs`:
 
 ```elixir

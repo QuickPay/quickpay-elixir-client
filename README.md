@@ -1,12 +1,11 @@
 # QuickpayElixirClient
 
-<> [![Build Status](https://travis-ci.org/QuickPay/quickpay-elixir-client.svg)](https://travis-ci.org/QuickPay/quickpay-elixir-client).
 
-The `quickpay-elixir-client` gem is a official client for [QuickPay API](https://learn.quickpay.net/tech-talk/api). The Quickpay API enables you to accept payments in a secure and reliable manner.
+The `quickpay-elixir-client` hex package is a official client for [QuickPay API](https://learn.quickpay.net/tech-talk/api). The Quickpay API enables you to accept payments in a secure and reliable manner.
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+If [available in Hex](https://hex.pm/packages/quickpay_elixir_client), the package can be installed
 by adding `quickpay_elixir_client` to your list of dependencies in `mix.exs`:
 
 ```elixir
